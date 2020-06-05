@@ -1,0 +1,50 @@
+
+body{
+    background-color: #25274d;
+}
+.contact{
+    padding: 4%;
+    height: 400px;
+}
+.col-md-3{
+    background:#D32F2F;
+    padding: 4%;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+}
+.contact-info{
+    margin-top:10%;
+}
+.contact-info img{
+    margin-bottom: 15%;
+}
+.contact-info h2{
+    margin-bottom: 10%;
+}
+.cu{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #edf1f3 !important;
+}
+.col-md-9{
+    background:#fff;
+    padding: 3%;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+}
+.contact-form label{
+    font-weight:600;
+}
+.contact-form button{
+    background: #D32F2F;
+    color: #edf1f3;
+    font-weight:bold;
+    width:auto;
+}
+.contact-form button:hover{
+    background: #edf1f3;
+    color: #D32F2F;
+    font-weight: bold;
+}
+.contact-form button:focus{
+    box-shadow:none;
+}
